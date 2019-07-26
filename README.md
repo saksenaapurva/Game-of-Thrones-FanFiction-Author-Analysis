@@ -49,7 +49,7 @@ Our initial assumptions were correct and the features we selected are all indica
 
 Enter p-value. P-value helps to determine the level of significance of our results. In statistics, a p-value <0.05 typically indicates the trend is statistically significant. P-value only helps to infer significance which means all the variables we included in our study are important predictors for the page rank score. What p-value does tell us is how important these variables. To know which feature is better predictor, we use another metric called r-square. R-square helps to know the degree of correlation between two expected output and the actual output. It is conceived in terms of percentage. 
 
-## Based on our analysis, it's safe to conclude the number of reviews received by the author indicates a higher probability of that author being favorited often. 
+#### Based on our analysis, it's safe to conclude the number of reviews received by the author indicates a higher probability of that author being favorited often. 
 
 # Conclusion
 In our analysis, we used four features, two of which Total Words and Story-Chapter product indicate the output (quantity) of an author while the other two; the number of reviews received and number of times the author’s works have been favorited indicate the quality of an author’s work. These features have been plotted against the page rank score which indicates the degree of an author’s presence in the community. Through data science and statistical analysis, we were able to discern that the quality of works and feedback received by an author is a better indicator than the output.
