@@ -36,7 +36,7 @@ A simple way to do this is through Linear Regression. In linear regression, we p
 
 The intuition behind our analysis is to discern if there is any correlation between the PageRank scores which is obtained through network analysis and the above-mentioned metrics.
 
-# Findings and Results (WIP)
+# Findings and Results 
 
 Due to the nature of our distribution, we decided to strip off all the authors having a score above 0.5, as clearly they are outliers and may not represent how the majority of the community behaves. In fact, there is a possibility of authors with high page rank scores skewing our results.
 
